@@ -1,0 +1,4 @@
+F:\ゲープロゼミ\ランゲーム\メイン - コピー\Debug\MyDxLibGame2D.exe
+D:\ゲープロゼミ\ランゲーム\メイン - コピー\Debug\MyDxLibGame2D.exe
+F:\ゲープロゼミ\ランゲーム\メイン\Debug\MyDxLibGame2D.exe
+D:\ゲープロゼミ\ランゲーム\メイン\Debug\MyDxLibGame2D.exe
